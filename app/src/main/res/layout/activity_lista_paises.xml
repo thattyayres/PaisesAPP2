@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.com.usjt.pg.listpaises.ListaPaisesActivity">
+    tools:context="br.com.usjt.pg.listpaises.controller.ListaPaisesActivity">
 
     <ListView
         android:layout_width="match_parent"
